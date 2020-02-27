@@ -8,6 +8,10 @@ body {
   border: 1px solid #210904;
 }
 
+.navbar-header div {
+ height: 80px; 
+}
+
 .navbar-header button.navbar-toggle {
   clear: both; }
 
