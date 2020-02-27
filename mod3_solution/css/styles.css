@@ -1,3 +1,9 @@
+body {
+  height: 40px;
+  
+}
+
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #210904;
 }
@@ -12,7 +18,7 @@
 }
 
 .navbar-brand {
-  padding-top: 40px;
+  padding-top: 25px;
   
 }
 
