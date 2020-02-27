@@ -5,3 +5,10 @@
 .navbar-header button.navbar-toggle {
   clear: both; }
 
+#header-nav {
+  background-color: #DAF7A6;
+  border-radius: 0;
+  border: 0;
+}
+
+
