@@ -2,12 +2,26 @@ body {
   
   
 }
+.chix {
+	background-color:  #ff3358;
+	
+	
+}
+#main-page {
+background-color: #ffa833;
+height: 1000px;
+/* margin: 10px; */
+/* margin-right: 10px; */
 
+}
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #210904;
 }
-
+#nav-list {
+	background-color: #a1e69f;
+	
+}
 
 
 .navbar-header button.navbar-toggle {
@@ -17,6 +31,7 @@ body {
   background-color: #DAF7A6;
   border-radius: 0;
   border: 0;
+  border-bottom: 2px solid black;
 }
 
 .navbar-brand {
@@ -57,6 +72,9 @@ body {
 
 /****************************extra small devices**************/
 @media (max-width: 767px) {
-  
+  .chix {
+	  margin-right:40px;
+	  margin-left:40px;
+	  
+  }
 }
-
