@@ -16,7 +16,7 @@ var helloSpeaker = {};
 // See Lecture 52, part 2
 //function speak(name) {
 //  console.log(speakWord + " " + name);
-helloSpeaker.speak = function (name) {
+helloSpeaker.speak = function speak(name) {
   console.log(speakWord + " " + name);
 };
 window.helloSpeaker = helloSpeaker;
