@@ -124,6 +124,7 @@ var chosenCategoryShortName = chooseRandomCategory(categories).short_name;
       // Use the existing insertHtml function for that purpose. Look through this code for an example
       // of how to do that.
       // ....
+      insertHtml('#main-content', homeHTMLtoInsertIntoMainPage);
 
     },
     false); // False here because we are getting just regular HTML from the server, so no need to process JSON.
